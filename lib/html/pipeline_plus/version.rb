@@ -1,5 +1,5 @@
 module HTML
   class Pipeline
-    VERSION = '2.10.5'.freeze
+    VERSION = '2.10.6'.freeze
   end
 end

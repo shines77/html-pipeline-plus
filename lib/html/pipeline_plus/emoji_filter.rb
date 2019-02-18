@@ -73,7 +73,7 @@ module HTML
           .map { |attr, value| !value.nil? && %(#{attr}="#{value.respond_to?(:call) && value.call(name) || value}") }
           .reject(&:blank?).join(' '.freeze)
 
-        "<img #{html_attrs} />"
+        '<img #{html_attrs} />'
       end
 
       # Default attributes for img tag
