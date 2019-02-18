@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-require 'html/pipeline-plus'
+require 'html/pipeline_plus'
 
 require 'optparse'
 
