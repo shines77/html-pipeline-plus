@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 # Specify your gem's dependencies in html-pipeline.gemspec
 gemspec
 
+# gem 'activesupport', '>= 2'
+# gem 'nokogiri', '>= 1.4'
+
 group :development do
   gem 'appraisal'
   gem 'bundler'

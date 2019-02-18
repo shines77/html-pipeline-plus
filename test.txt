@@ -11,3 +11,4 @@ bundle install
 test:
 
 ruby -Ilib:test ./test/test_helper.rb
+ruby -Ilib:test ./test/html/pipeline_test.rb
