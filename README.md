@@ -7,7 +7,7 @@ provided content. Read an introduction about this project in
 
 `Note`: This plugin is fork and modify base `html-pipeline`: [https://github.com/jch/html-pipeline](https://github.com/jch/html-pipeline) .
 
-- [HTML::Pipeline ![Build Status](https://travis-ci.org/jch/html-pipeline)](#htmlpipeline-build-statushttpstravis-ciorgjchhtml-pipeline)
+- [HTML::Pipeline](./)
   - [Installation](#installation)
   - [Usage](#usage)
     - [Examples](#examples)
