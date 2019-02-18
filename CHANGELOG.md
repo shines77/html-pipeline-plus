@@ -1,5 +1,14 @@
 # CHANGELOG
 
+---------------------------------------------------------
+
+## 2.10.3 (2019-02-19)
+
+  * Upgrade version to 2.10.3
+  * Fixed a bugs for '/' character
+
+---------------------------------------------------------
+
 ## 2.6.0
 * Switch from github-markdown to CommonMark #274
 * Fixed a few warnings
