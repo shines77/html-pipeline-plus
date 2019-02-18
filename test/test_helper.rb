@@ -1,5 +1,5 @@
 require 'bundler/setup'
-require 'html/pipeline-plus'
+require 'html/pipeline_plus'
 require 'minitest/autorun'
 
 require 'active_support/core_ext/string'

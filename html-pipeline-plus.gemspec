@@ -1,5 +1,5 @@
 
-require File.expand_path('../lib/html/pipeline-plus/version', __FILE__)
+require File.expand_path('../lib/html/pipeline_plus/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.name          = 'html-pipeline-plus'
