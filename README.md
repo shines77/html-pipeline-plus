@@ -5,7 +5,7 @@ framework for defining DOM based content filters and applying them to user
 provided content. Read an introduction about this project in
 [this blog post](https://github.com/blog/1311-html-pipeline-chainable-content-filters).
 
-`Note`: This plugin is fork and modify base `html-pipeline`: [https://github.com/jch/html-pipeline](https://github.com/jch/html-pipeline) .
+`Note`: This plugin is fork and modify base `html-pipeline v2.10.0`: [https://github.com/jch/html-pipeline](https://github.com/jch/html-pipeline) .
 
 - [HTML::Pipeline](./)
   - [Installation](#installation)
