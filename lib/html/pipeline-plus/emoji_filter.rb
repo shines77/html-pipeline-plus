@@ -83,9 +83,9 @@ module HTML
           'title' => ":#{name}:",
           'alt' => ":#{name}:",
           'src' => emoji_url(name).to_s,
-          'height' => '20'.freeze,
+          'align' => 'absmiddle'.freeze,
           'width' => '20'.freeze,
-          'align' => 'absmiddle'.freeze
+          'height' => '20'.freeze
         }
       end
 
