@@ -1,10 +1,12 @@
 
-depend library:
+install depend library:
 
 gem install appraisal
 gem install email_reply_parser
 gem install RedCloth
 gem install RedCloth --platform x64_mingw32
+
+bundle install
 
 test:
 
